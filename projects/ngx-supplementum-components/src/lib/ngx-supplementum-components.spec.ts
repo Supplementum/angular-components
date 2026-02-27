@@ -16,7 +16,7 @@ describe('NgxSupplementumComponents', () => {
     await fixture.whenStable();
   });
 
-  it('should create', () => {
+  it('should create - test 2', () => {
     expect(component).toBeTruthy();
   });
 });
